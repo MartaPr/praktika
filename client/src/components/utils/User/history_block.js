@@ -1,5 +1,4 @@
 import React from 'react';
-import moment from 'moment';
 
 // {moment(product.dateOfPurchase).format("MM-DD-YYYY")}
 
